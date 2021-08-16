@@ -1,12 +1,9 @@
 #EXTM3U
 
-#-StripChat favorites
-
-#-poner logo: https://www.iptvsaga.com/create-your-m3u-playlist/
-
-#-url: https://pastebin.com/AasRgfWH
-
-#-url: https://github.com/CuleoX/mecool/blob/main/tokens-xh
+#-StripChat favorites 
+#-poner logo: https://www.iptvsaga.com/create-your-m3u-playlist/ 
+#-url: https://pastebin.com/AasRgfWH 
+#-url: https://github.com/CuleoX/mecool/blob/main/tokens-xh 
 
 #EXTINF:-1, NikaLegran
 https://b-hls-18.strpst.com/hls/32891270/32891270.m3u8
