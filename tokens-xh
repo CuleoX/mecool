@@ -20,5 +20,8 @@ https://b-hls-23.strpst.com/hls/56203694/56203694.m3u8
 #EXTINF:-1, kylie_01
 https://b-hls-01.strpst.com/hls/57517386/57517386.m3u8
 
+#EXTINF:-1, Allie-Smith
+https://b-hls-16.strpst.com/hls/56888613/56888613.m3u8
+
 #EXTINF:-1, sofi_1
 https://b-hls-16.strpst.com/hls/48012544/48012544.m3u8
