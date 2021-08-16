@@ -22,3 +22,28 @@ https://b-hls-01.strpst.com/hls/57517386/57517386.m3u8
 
 #EXTINF:-1, Allie-Smith
 https://b-hls-16.strpst.com/hls/56888613/56888613.m3u8
+
+#EXTM3U
+
+#-StripChat favorites
+
+#-poner logo: https://www.iptvsaga.com/create-your-m3u-playlist/
+
+#-url: https://pastebin.com/AasRgfWH
+
+#-url: https://github.com/CuleoX/mecool/blob/main/tokens-xh
+
+#EXTINF:-1, NikaLegran
+https://b-hls-18.strpst.com/hls/32891270/32891270.m3u8
+
+#EXTINF:-1, Playwithus212
+https://b-hls-10.strpst.com/hls/49815240/49815240.m3u8
+
+#EXTINF:-1, Canada78
+https://b-hls-23.strpst.com/hls/56203694/56203694.m3u8
+
+#EXTINF:-1, kylie_01
+https://b-hls-01.strpst.com/hls/57517386/57517386.m3u8
+
+#EXTINF:-1, sofi_1
+https://b-hls-16.strpst.com/hls/48012544/48012544.m3u8
