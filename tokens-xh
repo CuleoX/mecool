@@ -65,5 +65,11 @@ https://b-hls-10.strpst.com/hls/40730393/40730393.m3u8
 #EXTINF:-1, Antonella-Mait
 https://b-hls-20.strpst.com/hls/53206330/53206330.m3u8
 
+#EXTINF:-1, JadeeHall
+https://b-hls-04.strpst.com/hls/65043504/master_65043504.m3u8
+
+#EXTINF:-1, iamsavagegirl7
+https://b-hls-16.strpst.com/hls/40324285/40324285.m3u8
+
 #-final de archivo
 #- - -
