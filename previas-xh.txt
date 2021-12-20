@@ -68,7 +68,7 @@ https://b-hls-20.strpst.com/hls/53206330/53206330.m3u8
 #EXTINF:-1, JadeeHall
 https://b-hls-04.strpst.com/hls/65043504/65043504.m3u8
 
-#EXTINF:-1, iamsavagegirl7
+#EXTINF:-1 tvg-logo="https://img.strpst.com/us25/thumbs/1640021189/40324285_webp", iamsavagegirl7
 https://b-hls-16.strpst.com/hls/40324285/40324285.m3u8
 
 #EXTINF:-1, Cherylloving_ [SD]
