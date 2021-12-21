@@ -41,7 +41,7 @@ https://b-hls-24.strpst.com/hls/7536780/7536780.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/avatars/9/0/3/903769161ff9c9e0317dbfe09be0697f-full", Vanessa_Samir
 https://b-hls-09.strpst.com/hls/45465845/45465845.m3u8
 
-#EXTINF:-1 tvg-logo="tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/naughty_girls2021.jpg", naughty_girls2021
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/naughty_girls2021.jpg", naughty_girls2021
 https://b-hls-16.strpst.com/hls/52004356/52004356.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Emma_Sweet.jpg", Emma_Sweet
@@ -62,28 +62,28 @@ https://b-hls-19.strpst.com/hls/63671444/63671444.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/f/7/0/f70e09dcf0f48d204057e8856592542e-full", janedaniells
 https://b-hls-10.strpst.com/hls/40730393/40730393.m3u8
 
-#EXTINF:-1, Antonella-Mait
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Antonella-Mait.jpg", Antonella-Mait
 https://b-hls-20.strpst.com/hls/53206330/53206330.m3u8
 
-#EXTINF:-1, JadeeHall
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/JadeeHall.jpg", JadeeHall
 https://b-hls-04.strpst.com/hls/65043504/65043504.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.strpst.com/us25/thumbs/1640021189/40324285_webp", iamsavagegirl7
 https://b-hls-16.strpst.com/hls/40324285/40324285.m3u8
 
-#EXTINF:-1, Cherylloving_ [SD]
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Cherylloving_.jpg", Cherylloving_ [SD]
 https://b-hls-05.strpst.com/hls/48826532/48826532.m3u8
 
-#EXTINF:-1, miapinky_ [SD]
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/miapinky_.jpg", miapinky_ [SD]
 https://b-hls-17.strpst.com/hls/66534338/66534338.m3u8
 
-#EXTINF:-1, susane_babyli [SD]
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/avatars/2/a/c/2ac1af1e8fcb6e50f03f6eb68fe2a3db-full", susane_babyli [SD]
 https://b-hls-18.strpst.com/hls/64011369/64011369.m3u8
 
-#EXTINF:-1, Kiara_Kitty
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Kiara_Kitty.jpg", Kiara_Kitty
 https://b-hls-16.strpst.com/hls/57168429/57168429.m3u8
 
-#EXTINF:-1, seon_mi_
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/seon_mi_.jpg", seon_mi_
 https://b-hls-16.strpst.com/hls/56672629/56672629.m3u8
 
 #-ejemplo logo:
