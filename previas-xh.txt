@@ -89,6 +89,18 @@ https://b-hls-16.strpst.com/hls/56672629/56672629.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/charmeddoll.jpg", charmeddoll
 https://b-hls-23.strpst.com/hls/54151543/54151543.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Sweetyangelll.jpg", Sweetyangelll
+https://b-hls-23.strpst.com/hls/35471183/35471183.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/panelImages/d/2/3/d2380a903e211a38ce4edaa89d24dcf9-thumb", Ellza_
+https://b-hls-05.strpst.com/hls/42265295/42265295.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/miadowell.jpg", miadowell
+https://b-hls-24.strpst.com/hls/56808528/56808528.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/CuleoX/mecool/raw/main/.previas/Marianagarcia2.jpg", Marianagarcia2
+https://b-hls-01.strpst.com/hls/70250253/70250253.m3u8
+
 #-ejemplo logo:
 #-extinf:-1 tvg-logo="LOGO-URL", nombre_live
 #-url_live.m3u8
